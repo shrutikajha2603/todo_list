@@ -111,7 +111,7 @@ span:hover{
     background: #edeef0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
     .todo-app {
         padding: 30px 20px 50px; 
         width:100%;
