@@ -112,18 +112,18 @@ span:hover{
 }
 
 @media (max-width: 768px) {
-    .todo-app {
+/*     .todo-app {
         padding: 30px 20px 50px; 
-    }
+    } */
 
     .row {
         flex-direction: column; 
     }
 
-    #input-box {
+/*     #input-box {
         margin-bottom: 0; 
     }
-
+ */
     button {
         padding: 16px;
         margin-top: 10px; 
@@ -133,11 +133,6 @@ span:hover{
     ul li {
         padding: 12px 8px; 
     }
-
-    h2 {
-        font-size: 18px; 
-    }
-}
 
     h2 {
         font-size: 18px; 
