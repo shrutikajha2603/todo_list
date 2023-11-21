@@ -123,6 +123,8 @@ span:hover{
 
     #input-box {
         margin-bottom: 0; 
+        justify-content: center;
+        text-align: center;
     }
 
     button {
