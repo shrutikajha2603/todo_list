@@ -112,7 +112,7 @@ span:hover{
 }
 
 @media (max-width: 768px) {
-    .todo-app {
+/*     .todo-app {
         padding: 30px 20px 50px; 
     }
 
@@ -136,5 +136,9 @@ span:hover{
 
     h2 {
         font-size: 18px; 
+    } */
+
+    .container{
+        width=50%
     }
 }
