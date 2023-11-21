@@ -113,7 +113,7 @@ span:hover{
 
 @media (max-width: 768px) {
     .todo-app {
-        padding: 10px 10px 10px; 
+        padding: 30px 20px 50px; 
     }
 
     .row {
@@ -125,14 +125,14 @@ span:hover{
     }
 
     button {
-        padding: 10px 20px; 
+        padding: 16px 30px; 
     }
 
     ul li {
-        padding: 8px 8px;
+        padding: 12px 8px;
     }
 
     h2 {
-        font-size: 14px; 
+        font-size: 18px; 
     }
 }
