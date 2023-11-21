@@ -117,7 +117,7 @@ span:hover{
     }
 
     .row {
-        flex-direction: row; 
+        flex-direction: column; 
     }
 
     #input-box {
@@ -125,12 +125,19 @@ span:hover{
     }
 
     button {
-        padding: 16px 30px; 
+        padding: 16px;
+        margin-top: 10px; 
+        width: 100%; 
     }
 
     ul li {
-        padding: 12px 8px;
+        padding: 12px 8px; 
     }
+
+    h2 {
+        font-size: 18px; 
+    }
+}
 
     h2 {
         font-size: 18px; 
