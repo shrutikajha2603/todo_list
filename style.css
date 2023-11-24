@@ -149,6 +149,11 @@ span:hover{
         padding-left: 15px;
         flex-direction: column;
     }
+
+    .container{
+        padding-top: 2rem;
+        padding: 2px;
+    }
     
     #input-box {
         padding: 8px;
