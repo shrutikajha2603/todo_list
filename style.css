@@ -163,11 +163,18 @@ span:hover{
     button {
         padding: 12px 30px 12px 12px;
         margin-top: 10px;
-        width: 100%;
+        width: 78%;
     }
     
     ul li {
         padding: 12px 8px 8px 30px;
+    }
+
+    ul li::before{
+        height: 25px;
+        width: 20px;
+        top: 10px;
+        left: 4px;
     }
     
     span {
