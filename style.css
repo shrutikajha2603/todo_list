@@ -161,7 +161,7 @@ span:hover{
     }
     
     button {
-        padding: 12px 30px;
+        padding: 12px 30px 12px 12px;
         margin-top: 10px;
         width: 100%;
     }
